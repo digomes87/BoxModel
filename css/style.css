@@ -40,13 +40,9 @@ aside {
 .container{
   width: 800px;
   margin: 0 auto;
-  background: blue;
 }
-
 .conteudo{
   width: 800px;
   overflow: auto;
-  background: rgb(38, 138, 88);
   margin-bottom: 20px;
-
 }

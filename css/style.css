@@ -3,6 +3,7 @@ header{
   height: 60px;
   background: #6b35b3;
   padding: 20px 0;
+  margin-bottom: 20px;
 }
 
 h1,p{
@@ -34,6 +35,7 @@ aside {
   height: 300px;
   background: #ccc;
   float: left;
+  margin-left: 20px;
 }
 .container{
   width: 800px;
@@ -41,3 +43,10 @@ aside {
   background: blue;
 }
 
+.conteudo{
+  width: 800px;
+  overflow: auto;
+  background: rgb(38, 138, 88);
+  margin-bottom: 20px;
+
+}
